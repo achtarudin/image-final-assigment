@@ -1,8 +1,7 @@
 # image-final-assigment
 Just host my image for final assigment
 
-
-source imange
+source image
 
 [Bus-Topologi](https://4.bp.blogspot.com/-chbyfRVI6p0/V_XuF1LrR_I/AAAAAAAACvY/rHPO4Ks2BBkTVhNIC7uNESv-LLs6MiB6ACPcB/s1600/topologi-bus.jpg)
 
